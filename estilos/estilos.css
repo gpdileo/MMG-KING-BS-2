@@ -1,7 +1,7 @@
 .body {
 
 background-color: bisque;
-background-image: linear-gradient( to bottom, rgb(238, 185, 185) , rgb(244, 220, 255))
+background-image: linear-gradient( to bottom, rgb(238, 185, 185) , rgb(137, 30, 187))
 
 }
 
@@ -16,6 +16,7 @@ background-image: linear-gradient( to bottom, rgb(238, 185, 185) , rgb(244, 220,
         margin-top: 50px;
         margin-bottom: 50px;
         background-color: lightgrey;
+        font-family: 'Hubballi', cursive;
 
 }
 
@@ -27,6 +28,7 @@ background-image: linear-gradient( to bottom, rgb(238, 185, 185) , rgb(244, 220,
         margin-top: 50px;
         margin-bottom: 50px;
         background-color: pink;
+        font-family: 'Hubballi', cursive;
 }
 
 .subtitulo {
@@ -37,6 +39,7 @@ background-image: linear-gradient( to bottom, rgb(238, 185, 185) , rgb(244, 220,
         margin-top: 25px;
         margin-bottom: 25px;
         background-color: pink;
+        font-family: 'Hubballi', cursive;
 
 
 }
@@ -49,6 +52,7 @@ background-image: linear-gradient( to bottom, rgb(238, 185, 185) , rgb(244, 220,
         margin-top: 50px;
         margin-bottom: 50px;
         background-color: pink;
+        font-family: 'Hubballi', cursive;
 
 
 }
@@ -61,6 +65,8 @@ background-image: linear-gradient( to bottom, rgb(238, 185, 185) , rgb(244, 220,
         margin-top: 50px;
         margin-bottom: 50px;
         background-color: lightgray;
+        font-family: 'Hubballi', cursive;
+        
 
 
 }
@@ -74,9 +80,21 @@ background-image: linear-gradient( to bottom, rgb(238, 185, 185) , rgb(244, 220,
         margin-top: 50px;
         margin-bottom: 50px;
         background-color: pink;
+        font-family: 'Hubballi', cursive;
 
 
 }
+
+
+
+.grua {
+
+       
+
+
+}
+
+
 
 .footer_index {
 
@@ -86,6 +104,8 @@ background-image: linear-gradient( to bottom, rgb(238, 185, 185) , rgb(244, 220,
         margin-top: 50px;
         margin-bottom: 50px;
         justify-content: space-evenly;
+        font-family: 'Hubballi', cursive;
+        background-color: antiquewhite;
 
 
 
